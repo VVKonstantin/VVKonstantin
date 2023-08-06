@@ -8,11 +8,14 @@
   <a href="mailto:gravekon@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=GMAIL&logoColor=white" alt="GMAIL Badge"/>
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/DISCORD-lightblue?style=for-the-badge&logo=DISCORD&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </div>
 
----
+##
 ### :man_technologist: About Me :
 - 💻 I am a Full Stack Developer
 - 📖 Learning to write code step by step with Yandex Practicum
