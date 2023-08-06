@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/C02IVLBtctk76/giphy.gif" width="400"/>
 <div id="badges">
   <a href="https://t.me/grav1211">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-29aaec?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
   <a href="mailto:gravekon@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=GMAIL&logoColor=white" alt="GMAIL Badge"/>
+    <img src="https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=GMAIL&logoColor=white" alt="GMAIL Badge"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/DISCORD-lightblue?style=for-the-badge&logo=DISCORD&logoColor=white" alt="Discord Badge"/>
+  <a href="https://discordapp.com/users/vvkonstantin">
+    <img src="https://img.shields.io/badge/DISCORD-5865f2?style=for-the-badge&logo=DISCORD&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
