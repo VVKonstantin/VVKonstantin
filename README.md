@@ -1,6 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there 👋</h1>
+  <img src="https://media.giphy.com/media/C02IVLBtctk76/giphy.gif" width="400"/>
+<div id="badges">
+  <a href="https://t.me/grav1211">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+  <a href="mailto:gravekon@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=GMAIL&logoColor=white" alt="GMAIL Badge"/>
+  </a>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  </div>
 
+---
+### :man_technologist: About Me :
+- 💻 I am a Full Stack Developer
+- 📖 Learning to write code step by step with Yandex Practicum
+- 🛫 Like travelling
+- 🔭 Obsessed with astronomy
+- 🎾 Into tennis
 <!--
+
 **VVKonstantin/VVKonstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
