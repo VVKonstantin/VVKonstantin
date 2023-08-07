@@ -31,5 +31,5 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/vvkonstantin)
 
 ## &#x1f4c8; GitHub Stats
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvkonstantin&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333&langs_count=3)
+
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=vvkonstantin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=29aaec&bg_color=333)
