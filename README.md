@@ -1,20 +1,3 @@
-<!--<div id="header" align="center">
-  <h1>Hi there 👋</h1>
-  <img src="https://media.giphy.com/media/C02IVLBtctk76/giphy.gif" width="400"/>
-<div id="badges">
-  <a href="https://t.me/grav1211">
-    <img src="https://img.shields.io/badge/Telegram-29aaec?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
-  <a href="mailto:gravekon@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=GMAIL&logoColor=white" alt="GMAIL Badge"/>
-  </a>
-  <a href="https://discordapp.com/users/vvkonstantin">
-    <img src="https://img.shields.io/badge/DISCORD-5865f2?style=for-the-badge&logo=DISCORD&logoColor=white" alt="Discord Badge"/>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  </div>
--->
 # Hi there 👋 My name is Konstantin. Nice to see you here
 ## 👨‍💻 Briefly about me
 - I'm exploring a way of the web developer
@@ -49,4 +32,4 @@
 
 ## &#x1f4c8; GitHub Stats
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvkonstantin&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333&langs_count=3)
-![Git Stats](https://github-readme-stats.vercel.app/api?username=vvkonstantin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=333)
+![Git Stats](https://github-readme-stats.vercel.app/api?username=vvkonstantin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=29aaec&bg_color=333)
