@@ -7,22 +7,27 @@
 - I like to travel ...
 - ... and am obsessed with astronomy
 ## 🔧 Technologies & Tools
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-333?style=flat&logo=Redux)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?&logo=TypeScript) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=JavaScript)
-![Jest](https://img.shields.io/badge/-Jest-333?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-333?&logo=Cypress)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-333?&logo=SASS)
-![Webpack](https://img.shields.io/badge/-Webpack-333?&logo=Webpack)
+
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=React)
+![React Router](https://img.shields.io/badge/-React_Router-333?style=flat&logo=React-Router)
+![Redux](https://img.shields.io/badge/-Redux-333?style=flat&logo=Redux)
+
+![Jest](https://img.shields.io/badge/-Jest-333?&logo=Jest)
+![Cypress](https://img.shields.io/badge/-Cypress-333?&logo=Cypress)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333?&logo=Node.js)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333?&logo=Nestjs)
 ![Express](https://img.shields.io/badge/-Express-333?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?&logo=PostgreSQL)
+
 ![GIT](https://img.shields.io/badge/-GIT-333?&logo=GIT)
+![Webpack](https://img.shields.io/badge/-Webpack-333?&logo=Webpack)
 ![Figma](https://img.shields.io/badge/-Figma-333?&logo=Figma)
 
 ## 📬Contact me
