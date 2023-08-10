@@ -24,6 +24,7 @@
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333?&logo=Nestjs)
 ![Express](https://img.shields.io/badge/-Express-333?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?&logo=MongoDB)
+![Mongoose](https://img.shields.io/badge/-Mongoose-333?&logo=Mongoose)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?&logo=PostgreSQL)
 
 ![GIT](https://img.shields.io/badge/-GIT-333?&logo=GIT)
