@@ -29,6 +29,7 @@
 
 ![GIT](https://img.shields.io/badge/-GIT-333?&logo=GIT)
 ![Webpack](https://img.shields.io/badge/-Webpack-333?&logo=Webpack)
+![Docker](https://img.shields.io/badge/-Docker-333?&logo=Docker)
 ![Figma](https://img.shields.io/badge/-Figma-333?&logo=Figma)
 
 ## 📬Contact me
